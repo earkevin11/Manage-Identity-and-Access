@@ -1,8 +1,6 @@
 # Manage-Identity-and-Access Concepts
 
 - [What is Azure Active Directory?](https://github.com/earkevin11/What-is-Azure-Active-Directory-/edit/main/README.md)
-- [Creating users and groups]
-- [Creating Virtual Machines]
 - [Role-Based Access Control (Control Access to resources)]
 - [Creating Custom Domain Names]
 - [Azure AD roles vs RBAC]

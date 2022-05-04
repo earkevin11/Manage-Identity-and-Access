@@ -3,7 +3,7 @@
 - [What is Azure Active Directory?](https://github.com/earkevin11/What-is-Azure-Active-Directory-/edit/main/README.md)
 - [Role-Based Access Control](https://github.com/earkevin11/RBAC-vs-Azure-AD-Roles/edit/main/README.md)
 - [Creating Custom Domain Names]
-- [Azure AD roles vs RBAC]
+- [Azure AD roles](https://github.com/earkevin11/Azure-AD-Roles)
 - [Application Registration]
 - [Sign-in and Audit Logs]
 - [Enterprise Applications and assigning users to Enterprise Applications]

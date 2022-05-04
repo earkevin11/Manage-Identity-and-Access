@@ -5,8 +5,8 @@
 - [Creating Custom Domain Names]
 - [Azure AD roles](https://github.com/earkevin11/Azure-AD-Roles)
 - [Application Registration](https://github.com/earkevin11/Application-Registration)
-- [Sign-in and Audit Log]
-- [Condtional Access Policies]gs](https://github.com/earkevin11/Sign-In-and-Audit-Logs)
+- [Sign-in and Audit Log](https://github.com/earkevin11/Sign-In-and-Audit-Logs)
+- [Condtional Access Policies]
 - [Enterprise Applications and assigning users to Enterprise Applications]
 - [Multi-factor authentication - MFA](https://github.com/earkevin11/Multifactor-Authentication-)
 - [Azure Identity Protection](https://github.com/earkevin11/Azure-Identity-Protection)

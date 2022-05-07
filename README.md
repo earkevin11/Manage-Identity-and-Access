@@ -7,7 +7,7 @@
 - [Application Registration](https://github.com/earkevin11/Application-Registration)
 - [Sign-in and Audit Log](https://github.com/earkevin11/Sign-In-and-Audit-Logs)
 - [Condtional Access Policies](https://github.com/earkevin11/Conditional-Access)
-- [Enterprise Applications and assigning users to Enterprise Applications]
+- [Enterprise Applications](https://github.com/earkevin11/Enterprise-Applications)
 - [Multi-factor authentication - MFA](https://github.com/earkevin11/Multifactor-Authentication-)
 - [Azure Identity Protection](https://github.com/earkevin11/Azure-Identity-Protection)
 - [Azure User Access Reviews Deployment](https://github.com/earkevin11/UAR-Deployment)

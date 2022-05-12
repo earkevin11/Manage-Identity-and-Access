@@ -1,6 +1,7 @@
 # Manage-Identity-and-Access Concepts
 
 - [What is Azure Active Directory?](https://github.com/earkevin11/What-is-Azure-Active-Directory-/edit/main/README.md)
+- [Azure AD vs On-Premises AD](https://github.com/earkevin11/Azure-AD-vs-On-Premises-AD)
 - [Role-Based Access Control](https://github.com/earkevin11/RBAC-vs-Azure-AD-Roles/edit/main/README.md)
 - [Creating Custom Domain Names](https://github.com/earkevin11/Custom-Domain-Names)
 - [Azure AD roles](https://github.com/earkevin11/Azure-AD-Roles)

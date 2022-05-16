@@ -16,3 +16,4 @@
 - [Administrative Units](https://github.com/earkevin11/Administrative-Units)
 - [Azure AD Connect properties (On-Prem -> Azure AD Environment)](https://github.com/earkevin11/AD-Connect)
 - [Pass Through Authentication](https://github.com/earkevin11/Pass-Through-Authentication)
+- [Password Protection](https://github.com/earkevin11/Password-Protection)

@@ -15,5 +15,6 @@
 - [Azure Privileged Identity Management](https://github.com/earkevin11/Privileged-Identity-Management)
 - [Administrative Units](https://github.com/earkevin11/Administrative-Units)
 - [Azure AD Connect properties (On-Prem -> Azure AD Environment)](https://github.com/earkevin11/AD-Connect)
+- [How to sync users from On-Premise Local AD to Azure AD](https://github.com/earkevin11/On-Premise-AD-Implementation-on-Azure)
 - [Pass Through Authentication](https://github.com/earkevin11/Pass-Through-Authentication)
 - [Password Protection](https://github.com/earkevin11/Password-Protection)
